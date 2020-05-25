@@ -14,8 +14,8 @@ public class Example
                  return 42;
               });
       t.Wait();
-Console.WriteLine("byte Armazena 1 Byte na sua ram (Só armazena os valores true e false!");
-     Console.WriteLine("bool Armazena 1 byte na sua RAM (Apenas amarzena um valor de 0 a 255");
+Console.WriteLine("bool Armazena 1 Byte na sua ram (Só armazena os valores true e false!");
+     Console.WriteLine("byte Armazena 1 byte na sua RAM (Apenas amarzena um valor de 0 a 255");
      Console.WriteLine("sbyte Armazena  1 Byte na sua RAM(de -128 a 127");
      Console.WriteLine("short Armazena 2 bytes na sua RAM (de -32768 a 32767");
      Console.WriteLine("ushort Armazena 2 bytes na sua RAM (de 0 a 65535");
